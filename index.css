@@ -73,14 +73,14 @@ body {
     color: rgb(39, 35, 56);
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 770px) {
     main {
       display: flex;
       flex-direction: column;
       align-items: center;
     }
-    .sub-container {
+    /* .sub-container {
       display: block;
-    }
+    } */
   }
   
